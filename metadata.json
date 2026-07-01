@@ -1,0 +1,6 @@
+{
+  "name": "Taram's Food Garden",
+  "description": "A premium, modern, and elegant bakery website showcasing handcrafted cakes, pastries, cupcakes, and artisan treats, complete with an interactive menu, custom cake request form, shopping cart, and photo gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
